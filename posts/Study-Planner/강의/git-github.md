@@ -4,17 +4,21 @@
 
     ### 강의 노트
 
-    - [git private repository clone (1)](git-private-repository-clone--1.md)
-    - [Untitled](Untitled.md)
+    - [대표직인 브랜치 관리 전략](대표직인-브랜치-관리-전략.md)
+    - [프로젝트 브랜치 관리 전략](프로젝트-브랜치-관리-전략.md)
+    - [git conflict(충돌)관리](git-conflict-충돌-관리.md)
+    - [ fork와 clone](fork와-clone.md)
+    - [git stach](git-stach.md)
+    - [원격 브랜치 생성](원격-브랜치-생성.md)
+    - [git rebase](git-rebase.md)
+    - [git 이란?](git-이란.md)
+    - [커밋](커밋.md)
+    - [git private repository clone](git-private-repository-clone.md)
+    - [로컬 브랜치를 먼저 생성한 경우 원격 브랜치 생성법](로컬-브랜치를-먼저-생성한-경우-원격-브랜치-생성법.md)
+    - [로컬 브랜치명 변경 시 원격 브랜치는 어떻게 변경해야하는가?](로컬-브랜치명-변경-시-원격-브랜치는-어떻게-변경해야하는가.md)
+    - [git rebase](git-rebase.md)
 
 
     ### 독서 리스트
 
-    - [죄와 벌](죄와-벌.md)
-    - [이커머스 스타트업 대표 4인이 바라본 티메프 사태](이커머스-스타트업-대표-4인이-바라본-티메프-사태.md)
-    - [멋진 신세계](멋진-신세계.md)
-    - [사피엔스](사피엔스.md)
-    - [Netflix 익스플레인](Netflix-익스플레인.md)
 
-    - [질문](질문.md)
-    - [강의 계획서](강의-계획서.md)
